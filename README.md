@@ -8,8 +8,9 @@ href="https://www.linkedin.com/in/stephanie-zhu-a73aab150/">Business Intelligenc
 
 - <b>💾SQL Project</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/szhu23-us/Food_and_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
- 
-- <b>💾Power BI Project</b>
+
+- <b><img width="15" height="20" alt="image" src="https://github.com/user-attachments/assets/9c3ea38b-3922-4e77-81bc-c8c1a0b1f208" />
+Power BI Project</b>
   - [Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9
 )
 
